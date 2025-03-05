@@ -9,6 +9,30 @@
 Completed **7 data visualization tasks** using Power BI to analyze investment data. Transformed raw datasets into actionable insights through interactive dashboards, helping stakeholders make data-driven decisions.
 
 ---
+## 📸 Task Screenshots
+
+### Task 1
+![Task 1](screenshot(108).png)
+
+### Task 2
+![Task 2](screenshots(109).png)
+
+### Task 3
+![Task 3](screenshots(110).png)
+
+### Task 4
+![Task 4](screenshots(111).png)
+
+### Task 5
+![Task 5](screenshots(112).png)
+
+### Task 6
+![Task 6](screenshots(113).png)
+
+### Task 7
+![Task 7](screenshots(114).png)
+
+---
 
 ## 🔍 Key Tasks & Deliverables  
 
