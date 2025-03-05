@@ -13,25 +13,25 @@ Completed **7 data visualization tasks** using Power BI to analyze investment da
 ## 📸 Task Screenshots
 
 ### Task 1
-![Task 1](screenshots/task1.png)
+![Task 1](Screenshot%20(108).png)
 
 ### Task 2
-![Task 2](screenshots/task2.png)
+![Task 2](Screenshot%20(109).png)
 
 ### Task 3
-![Task 3](screenshots/task3.png)
+![Task 3](Screenshot%20(110).png)
 
 ### Task 4
-![Task 4](screenshots/task4.png)
+![Task 4](Screenshot%20(111).png)
 
 ### Task 5
-![Task 5](screenshots/task5.png)
+![Task 5](Screenshot%20(112).png)
 
 ### Task 6
-![Task 6](screenshots/task6.png)
+![Task 6](Screenshot%20(113).png)
 
 ### Task 7
-![Task 7](screenshots/task7.png)
+![Task 7](Screenshot%20(114).png)
 
 ---
 
