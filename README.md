@@ -6,31 +6,32 @@
 ---
 
 ## 🚀 Overview  
-Completed **7 data visualization tasks** using Power BI to analyze investment data. Transformed raw datasets into actionable insights through interactive dashboards, helping stakeholders make data-driven decisions.
+Completed **7 data visualization tasks** using Power BI to analyze investment data. Transformed raw datasets into actionable insights through interactive dashboards, helping stakeholders make data-[...]
 
 ---
+
 ## 📸 Task Screenshots
 
 ### Task 1
-![Task 1](screenshot(108).png)
+![Task 1](screenshots/task1.png)
 
 ### Task 2
-![Task 2](screenshots(109).png)
+![Task 2](screenshots/task2.png)
 
 ### Task 3
-![Task 3](screenshots(110).png)
+![Task 3](screenshots/task3.png)
 
 ### Task 4
-![Task 4](screenshots(111).png)
+![Task 4](screenshots/task4.png)
 
 ### Task 5
-![Task 5](screenshots(112).png)
+![Task 5](screenshots/task5.png)
 
 ### Task 6
-![Task 6](screenshots(113).png)
+![Task 6](screenshots/task6.png)
 
 ### Task 7
-![Task 7](screenshots(114).png)
+![Task 7](screenshots/task7.png)
 
 ---
 
@@ -58,12 +59,10 @@ Completed **7 data visualization tasks** using Power BI to analyze investment da
 ### 7. **Final Consolidated Dashboard**  
 - Merged all insights into a single interactive report with filters for easy exploration.  
 
-
 ## 🛠️ Skills & Tools  
 - **Tools**: Power BI, DAX, Power Query  
 - **Techniques**: Data Cleaning, Time-Series Analysis, Trend Identification  
 - **Soft Skills**: Stakeholder Communication, Dashboard Storytelling  
-
 
 ## 🙏 Acknowledgements  
 Thank you, [Cognifyz Technologies](https://www.cognifyz.com/), for the hands-on mentorship and opportunity to grow in data visualization!  
